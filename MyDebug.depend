@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623569573 source:c:\users\poorv\onedrive\desktop\school\c++ lab\trees\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1621507436 c:\users\poorv\onedrive\desktop\school\c++ lab\trees\queue.h
+	<stdio.h>
+	<stdlib.h>
+
